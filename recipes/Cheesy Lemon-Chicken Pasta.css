@@ -1,0 +1,14 @@
+/* Cheesy Lemon-Chicken Pasta.css */
+
+html{
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(97, 148, 182), rgb(198, 194, 187));
+}
+
+body{
+    font-family: 'Lucida Sans', sans-serif;
+}
+
+h1, h2 {
+	font-family: 'Lucida Sans', sans-serif;
+}
